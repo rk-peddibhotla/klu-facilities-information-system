@@ -1,1 +1,1 @@
-# kLU-Facilities-Information-System
+# KLU-Facilities-Information-System
